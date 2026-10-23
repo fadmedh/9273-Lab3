@@ -1,0 +1,12 @@
+total 80
+drwxrwxr-x  2 os os  4096 Oct 14 20:34 .
+drwxr-x--- 22 os os  4096 Oct 14 20:29 ..
+-rw-rw-r--  1 os os    59 Oct 14 15:08 child_log.txt
+-rw-rw-r--  1 os os  9099 Oct 14 20:31 command.cc
+-rw-rw-r--  1 os os   649 Oct 24  2025 command.h
+-rw-rw-r--  1 os os   169 Oct 14 14:08 Makefile
+-rwxrwxr-x  1 os os 33560 Oct 14 20:32 myshell
+-rw-rw-r--  1 os os   436 Oct 14 14:24 out.txt
+-rw-rw-r--  1 os os     0 Oct 14 20:34 testing.txt
+-rw-rw-r--  1 os os  1954 Oct 24  2025 tokenizer.cc
+-rw-rw-r--  1 os os   456 Oct 24  2025 tokenizer.h
